@@ -1,0 +1,752 @@
+@media screen and (max-width: 1310px) {
+  .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup {
+    left: -345px; }
+    .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup:after {
+      left: 400px; }
+  .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup {
+    left: -215px; }
+    .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup:after {
+      left: 270px; } }
+
+@media screen and (max-width: 1044px) {
+  .how-work .simple-steps-wrap .important-circle {
+    right: 0;
+    width: 315px;
+    height: 315px; } }
+
+@media screen and (max-width: 992px) {
+  .slide {
+    background-position: left top;
+    padding-bottom: 316px; }
+    .slide .slide-left {
+      margin-left: 40px; }
+      .slide .slide-left .three {
+        left: -28px; }
+      .slide .slide-left ul {
+        font-family: RobotoLight; }
+    .slide .slide-right {
+      padding-top: 30px;
+      margin-right: 26px; }
+      .slide .slide-right ul {
+        font-family: RobotoLight; }
+    .slide .girl-center {
+      width: 383px;
+      left: 90px; }
+  .order-now {
+    padding: 46px 0 52px 0; }
+    .order-now .order-now-wrap .product-box {
+      width: 46%;
+      left: -125px;
+      top: -61px; }
+    .order-now .order-now-wrap .order-now-center {
+      margin-right: 0;
+      width: 274px; }
+      .order-now .order-now-wrap .order-now-center .price-circle {
+        width: 137px;
+        height: 137px;
+        top: -120px;
+        left: 120px; }
+        .order-now .order-now-wrap .order-now-center .price-circle p.old-price {
+          padding: 33px 0 3px 0;
+          font: 500 19px/25px RobotoRegular; }
+        .order-now .order-now-wrap .order-now-center .price-circle p.price {
+          font: 700 39px/1 RobotoRegular; }
+          .order-now .order-now-wrap .order-now-center .price-circle p.price span {
+            font-size: 14px; }
+      .order-now .order-now-wrap .order-now-center h3 {
+        padding-top: 22px;
+        margin-bottom: 19px;
+        font: 700 33px/34px RobotoRegular; }
+      .order-now .order-now-wrap .order-now-center p {
+        font: 300 14px/1 RobotoRegular;
+        margin-bottom: 32px; }
+      .order-now .order-now-wrap .order-now-center .timer-content .timer .timer-val {
+        padding: 1px 8px;
+        font: 400 26px/27px OpenSansRegular; }
+      .order-now .order-now-wrap .order-now-center .timer-content .timer .timer-colon {
+        margin: 0 2px 0 -3px; }
+      .order-now .order-now-wrap .order-now-center .timer-content .timer .timer-title {
+        font: 300 9px/27px RobotoRegular; }
+    .order-now .order-now-wrap .order-now-right {
+      width: auto; }
+      .order-now .order-now-wrap .order-now-right h2 {
+        font: 700 19px/23px RobotoRegular;
+        margin-bottom: 12px; }
+      .order-now .order-now-wrap .order-now-right form .form-field input {
+        width: 244px;
+        height: 42px; }
+      .order-now .order-now-wrap .order-now-right form button {
+        width: 244px;
+        height: 53px;
+        font: 700 17px/28px RobotoRegular; }
+  .effects {
+    padding-bottom: 31px; }
+    .effects .effects-cont {
+      padding: 0 53px; }
+      .effects .effects-cont h3 {
+        padding-top: 72px; }
+      .effects .effects-cont .effects-list {
+        margin-top: 84px; }
+        .effects .effects-cont .effects-list .effects-item {
+          width: 49%;
+          padding-bottom: 64px; }
+          .effects .effects-cont .effects-list .effects-item:nth-child(2) {
+            width: 28%; }
+          .effects .effects-cont .effects-list .effects-item.tittle-item {
+            margin: 0px 127px 0 15px; }
+    .effects .relieve-pain {
+      padding-top: 0; }
+      .effects .relieve-pain .relieve-pain-title {
+        margin-left: 49px; }
+      .effects .relieve-pain .line-blue {
+        margin-left: 53px; }
+  .pain-scale {
+    padding: 31px 0 41px 0; }
+    .pain-scale .pain-scale-tittle {
+      padding-top: 0;
+      margin-left: 53px;
+      width: 123px; }
+      .pain-scale .pain-scale-tittle h2 {
+        font: 900 34px/40px RobotoRegular;
+        margin-bottom: 5px; }
+      .pain-scale .pain-scale-tittle span {
+        font: 700 18px/20px RobotoRegular; }
+    .pain-scale .pain-scale-list .pain-scale-item {
+      padding: 15px 0px; }
+      .pain-scale .pain-scale-list .pain-scale-item:first-child > .pain-popup {
+        left: -50px; }
+        .pain-scale .pain-scale-list .pain-scale-item:first-child > .pain-popup:after {
+          left: 85px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(2) > .pain-popup {
+        left: -145px; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(2) > .pain-popup:after {
+          left: 185px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(3) > .pain-popup {
+        left: -240px; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(3) > .pain-popup:after {
+          left: 275px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup {
+        left: -335px; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup:after {
+          left: 370px; }
+      .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup {
+        left: -430px; }
+        .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup:after {
+          left: 435px; }
+  .warmer {
+    background-position: right top; }
+    .warmer h2 {
+      padding-top: 62px;
+      margin: 0 0 15px 54px; }
+    .warmer .line-blue {
+      margin-left: 56px; }
+    .warmer .warmer-list {
+      padding-bottom: 65px; }
+      .warmer .warmer-list .warmer-item {
+        padding: 0 4px; }
+        .warmer .warmer-list .warmer-item:first-child {
+          padding-left: 36px; }
+  .nano-tech .nano-tech-wrap {
+    padding-bottom: 38px; }
+    .nano-tech .nano-tech-wrap .nano-tech-bg {
+      left: -95px; }
+    .nano-tech .nano-tech-wrap .nano-tech-right {
+      width: 471px; }
+      .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item {
+        width: 233px; }
+        .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item img.quality-img-right {
+          margin-left: 0; }
+  .composition {
+    padding-bottom: 129px; }
+    .composition h2 {
+      margin-bottom: 111px; }
+    .composition .composition-wrap img {
+      width: 44%; }
+    .composition .composition-wrap p {
+      font: 300 20px/23px RobotoRegular; }
+      .composition .composition-wrap p.iron {
+        top: -65px; }
+      .composition .composition-wrap p.carbon {
+        top: 5px;
+        right: 0; }
+      .composition .composition-wrap p.salt {
+        bottom: 14px;
+        right: 57px; }
+      .composition .composition-wrap p.polymer {
+        bottom: -63px; }
+      .composition .composition-wrap p.vermiculite {
+        bottom: 17px;
+        left: 26px; }
+      .composition .composition-wrap p.purge {
+        left: 0px; }
+  .how-work .how-work-frame {
+    top: 164px;
+    max-width: 649px;
+    height: 634px; }
+  .how-work .how-work-list {
+    margin-bottom: 189px; }
+    .how-work .how-work-list .how-work-item {
+      width: 43%;
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 85px; }
+      .how-work .how-work-list .how-work-item p {
+        margin-top: 14px;
+        line-height: 18px; }
+  .how-work .simple-steps-wrap {
+    padding-bottom: 244px; }
+    .how-work .simple-steps-wrap .important-circle {
+      top: 373px;
+      left: 0;
+      right: 0;
+      margin: auto; }
+  .technology .tech-wrap {
+    padding-top: 246px; }
+    .technology .tech-wrap .tech-item {
+      padding: 0 12px; }
+      .technology .tech-wrap .tech-item:first-child {
+        padding-left: 0; }
+      .technology .tech-wrap .tech-item:last-child {
+        padding-left: 0; }
+      .technology .tech-wrap .tech-item img {
+        width: 20%; }
+      .technology .tech-wrap .tech-item p {
+        margin-top: 22px;
+        font: 300 17px/20px RobotoLight; }
+  .technology h2 {
+    padding-top: 68px;
+    font: 100 33px/1 RobotoLight; }
+  .expert h2 {
+    padding-top: 175px; }
+  .expert .expert-item {
+    text-align: center;
+    margin-bottom: 101px; }
+    .expert .expert-item .avatar-wrap {
+      float: none; }
+    .expert .expert-item .expert-item-text {
+      margin-left: 0; }
+      .expert .expert-item .expert-item-text p {
+        text-align: left; }
+  .reviews {
+    margin-bottom: 274px; }
+  footer .logo {
+    margin-right: 40px; } }
+
+@media screen and (max-width: 767px) {
+  header .navigation .main-menu li {
+    padding: 18px 11px; }
+  .slide {
+    padding-bottom: 285px; }
+    .slide .slide-left {
+      margin-left: 0; }
+      .slide .slide-left .three {
+        font-size: 325px;
+        left: -10px;
+        bottom: -92px; }
+      .slide .slide-left .logo a {
+        font: 400 54px/1 IntroRegular; }
+      .slide .slide-left .logo p {
+        font: 300 17px/1 RobotoCondensedLight; }
+      .slide .slide-left h2 {
+        margin: 43px 0 23px 35px; }
+      .slide .slide-left ul {
+        padding-right: 2px; }
+    .slide .slide-right {
+      margin-right: 0; }
+    .slide .girl-center {
+      bottom: -52px; }
+  .order-now {
+    position: relative;
+    z-index: 2; }
+    .order-now .order-now-wrap .product-box {
+      width: 54%;
+      left: -181px;
+      top: -58px; }
+    .order-now .order-now-wrap .order-now-right {
+      width: 180px; }
+      .order-now .order-now-wrap .order-now-right h2 {
+        font: 700 14px/20px RobotoRegular; }
+      .order-now .order-now-wrap .order-now-right form .form-field input {
+        width: 180px; }
+      .order-now .order-now-wrap .order-now-right form button {
+        width: 180px; }
+    .order-now .order-now-wrap .order-now-center .price-circle {
+      left: 59px; }
+  .effects {
+    padding-bottom: 42px; }
+    .effects .effects-cont {
+      padding: 0; }
+      .effects .effects-cont h3 {
+        padding-top: 62px; }
+      .effects .effects-cont .effects-list {
+        margin-top: 74px; }
+        .effects .effects-cont .effects-list .effects-item {
+          padding-bottom: 71px; }
+          .effects .effects-cont .effects-list .effects-item.tittle-item {
+            margin-left: 0; }
+    .effects .relieve-pain .relieve-pain-title {
+      margin-left: 0; }
+    .effects .relieve-pain .line-blue {
+      margin-left: 0; }
+  .pain-scale {
+    padding-bottom: 28px; }
+    .pain-scale .pain-scale-tittle {
+      margin-left: 0; }
+    .pain-scale .pain-scale-list .pain-scale-item p {
+      width: 91px; }
+  .warmer h2 {
+    padding-top: 52px;
+    margin-left: 0; }
+  .warmer .line-blue {
+    margin-left: 0; }
+  .warmer .warmer-list {
+    padding-bottom: 75px; }
+    .warmer .warmer-list .warmer-item {
+      padding: 0; }
+      .warmer .warmer-list .warmer-item:first-child {
+        padding-left: 0; }
+      .warmer .warmer-list .warmer-item p {
+        font: 100 26px/1 RobotoLight;
+        width: 151px; }
+  .nano-tech .nano-tech-wrap {
+    padding-bottom: 92px; }
+    .nano-tech .nano-tech-wrap .nano-tech-bg {
+      left: -233px; }
+    .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item {
+      width: 206px;
+      padding: 55px 0 50px 0; }
+      .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item img {
+        width: 29%;
+        margin-right: 21px; }
+        .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item img.quality-img-right {
+          margin: 0 8px 0 10px; }
+      .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item p {
+        font: 100 17px/20px RobotoLight; }
+  .composition {
+    padding-bottom: 152px; }
+    .composition h3 {
+      padding-top: 96px; }
+    .composition h2 {
+      margin-bottom: 140px; }
+    .composition .composition-wrap p {
+      font: 300 16px/19px RobotoRegular;
+      width: 149px; }
+      .composition .composition-wrap p.iron {
+        top: -55px; }
+      .composition .composition-wrap p.carbon {
+        top: 2px;
+        right: -2px; }
+      .composition .composition-wrap p.salt {
+        bottom: 15px;
+        right: 53px; }
+      .composition .composition-wrap p.polymer {
+        bottom: -49px; }
+      .composition .composition-wrap p.vermiculite {
+        left: 31px; }
+      .composition .composition-wrap p.purge {
+        top: 9px;
+        left: 9px; }
+  .how-work .how-work-frame {
+    max-width: 470px; }
+  .how-work .how-work-list {
+    margin-bottom: 139px; }
+    .how-work .how-work-list .how-work-item {
+      width: 54%; }
+  .how-work .simple-steps-wrap {
+    padding-bottom: 235px; }
+    .how-work .simple-steps-wrap .simple-steps-item {
+      padding: 0 10px;
+      width: 31%; }
+    .how-work .simple-steps-wrap .important-circle {
+      top: 362px; }
+  .technology .tech-wrap {
+    padding-top: 193px; }
+    .technology .tech-wrap .tech-item {
+      padding: 64px 0;
+      display: block;
+      width: 365px;
+      background: #f5fafe;
+      margin: 0 auto;
+      margin-bottom: 12px; }
+      .technology .tech-wrap .tech-item:first-child {
+        padding-left: 0; }
+      .technology .tech-wrap .tech-item img {
+        width: 19%; }
+      .technology .tech-wrap .tech-item p {
+        padding-top: 30px;
+        margin: 0 auto;
+        font: 300 25px/29px RobotoLight;
+        width: 284px; }
+  .technology h2 {
+    padding: 0 52px; }
+  .expert h2 {
+    padding-top: 146px; }
+  .expert .expert-item {
+    margin-bottom: 70px; }
+  .reviews {
+    margin-bottom: 74px; }
+    .reviews h2 {
+      margin-bottom: 65px; }
+    .reviews .carrusel {
+      background: #fcfcfc;
+      border: 1px solid #ececec;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+      padding: 29px 27px 10px 27px; }
+      .reviews .carrusel .reviews-item .reviews-avatar {
+        float: none;
+        display: block;
+        margin: 0 auto; }
+      .reviews .carrusel .reviews-item .reviews-text {
+        margin-left: 0;
+        padding: 0; }
+  .order-now-bottom {
+    display: none; }
+  footer {
+    padding-bottom: 53px; }
+    footer .logo {
+      padding-top: 51px;
+      margin-right: 20px; }
+      footer .logo a {
+        font: 400 32px/1 IntroRegular; }
+      footer .logo p {
+        font: 300 10px/1 RobotoCondensed; }
+    footer .footer-center {
+      padding-top: 53px; }
+      footer .footer-center p {
+        font: 100 19px/20px RobotoRegular; }
+      footer .footer-center span {
+        font: 100 16px/1 RobotoLight; }
+    footer .footer-call-back {
+      margin-top: 52px; } }
+
+@media screen and (max-width: 640px) {
+  .burger {
+    display: block; }
+  .navigation {
+    padding-top: 0; }
+    .navigation .main-menu {
+      display: none;
+      position: fixed;
+      z-index: 3;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      text-align: center;
+      background: rgba(24, 93, 149, 0.9);
+      padding: 0; }
+      .navigation .main-menu li {
+        display: block;
+        padding: 15px 11px; }
+        .navigation .main-menu li:hover {
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          border-radius: 0; }
+        .navigation .main-menu li:first-child {
+          margin-top: 105px; }
+        .navigation .main-menu li a {
+          color: white;
+          border: 0;
+          font: 700 20px/1 RobotoRegular; }
+    .navigation .el-call-back {
+      display: none; }
+  .slide {
+    padding: 30px 0 76px 0;
+    margin-top: 0; }
+    .slide .slide-left {
+      float: none; }
+      .slide .slide-left .three {
+        left: 140px;
+        bottom: -92px; }
+      .slide .slide-left .logo {
+        text-align: center;
+        margin: 0 auto; }
+        .slide .slide-left .logo a {
+          margin-left: 0; }
+      .slide .slide-left h2 {
+        text-align: center;
+        margin-left: 0; }
+      .slide .slide-left ul {
+        float: none;
+        margin: 0 auto;
+        max-width: 35%; }
+    .slide .slide-right {
+      float: none;
+      margin: 0 auto;
+      max-width: 48%; }
+    .slide .girl-center {
+      display: none; }
+  .order-now .order-now-wrap .product-box {
+    display: none; }
+  .order-now .order-now-wrap .order-now-right {
+    float: none;
+    margin: 0 auto;
+    width: 274px; }
+    .order-now .order-now-wrap .order-now-right h2 {
+      font: 700 22px/25px RobotoRegular; }
+    .order-now .order-now-wrap .order-now-right form .form-field input {
+      width: 100%; }
+    .order-now .order-now-wrap .order-now-right form button {
+      width: 274px; }
+  .order-now .order-now-wrap .order-now-center {
+    float: none;
+    margin: 0 auto; }
+    .order-now .order-now-wrap .order-now-center .price-circle {
+      display: none; }
+  .effects .effects-cont h3 {
+    width: 100%;
+    text-align: center; }
+  .effects .effects-cont .el-line {
+    margin: 0 auto;
+    width: 70%; }
+  .effects .effects-cont h2 {
+    text-align: center; }
+  .effects .effects-cont .effects-list .effects-item {
+    display: block;
+    margin: 0 auto; }
+    .effects .effects-cont .effects-list .effects-item.tittle-item {
+      text-align: center;
+      margin: 0 auto; }
+    .effects .effects-cont .effects-list .effects-item:nth-child(2) {
+      width: 49%; }
+  .effects .relieve-pain .relieve-pain-title {
+    text-align: center; }
+  .effects .relieve-pain .line-blue {
+    margin: 0 auto;
+    width: 70%; }
+  .effects .relieve-pain .main-table th {
+    font: 100 20px/55px RobotoLight; }
+  .effects .relieve-pain .main-table td.table-left {
+    padding-right: 0; }
+  .effects .relieve-pain .main-table td.table-center {
+    width: 23%; }
+  .pain-scale .pain-scale-tittle {
+    float: none;
+    width: 100%;
+    text-align: center; }
+  .pain-scale .pain-scale-list {
+    float: none; }
+    .pain-scale .pain-scale-list .pain-scale-item {
+      display: block;
+      padding: 15px 0px; }
+      .pain-scale .pain-scale-list .pain-scale-item p {
+        width: 100%; }
+      .pain-scale .pain-scale-list .pain-scale-item .pain-popup {
+        left: 0;
+        right: 0;
+        margin: auto; }
+      .pain-scale .pain-scale-list .pain-scale-item:first-child > .pain-popup {
+        left: 0; }
+        .pain-scale .pain-scale-list .pain-scale-item:first-child > .pain-popup:after {
+          left: 225px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(2) > .pain-popup {
+        left: 0; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(2) > .pain-popup:after {
+          left: 225px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(3) > .pain-popup {
+        left: 0; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(3) > .pain-popup:after {
+          left: 225px; }
+      .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup {
+        left: 0; }
+        .pain-scale .pain-scale-list .pain-scale-item:nth-child(4) > .pain-popup:after {
+          left: 225px; }
+      .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup {
+        left: 0; }
+        .pain-scale .pain-scale-list .pain-scale-item:last-child > .pain-popup:after {
+          left: 225px; }
+  .warmer {
+    background: none; }
+    .warmer h2 {
+      width: 100%;
+      text-align: center;
+      font: 400 32px/44px IntroRegular; }
+    .warmer .line-blue {
+      width: 90%;
+      margin: 0 auto; }
+    .warmer .warmer-list {
+      margin-top: 0;
+      padding-bottom: 0; }
+      .warmer .warmer-list .warmer-item {
+        display: block;
+        padding: 26px 0; }
+        .warmer .warmer-list .warmer-item p {
+          width: 100%; }
+  .nano-tech .nano-tech-wrap .nano-tech-bg {
+    display: none; }
+  .nano-tech .nano-tech-wrap .nano-tech-right {
+    float: none;
+    width: 100%; }
+    .nano-tech .nano-tech-wrap .nano-tech-right h2 {
+      text-align: center; }
+    .nano-tech .nano-tech-wrap .nano-tech-right .line-white {
+      margin: 0 auto;
+      width: 70%; }
+    .nano-tech .nano-tech-wrap .nano-tech-right .quality {
+      text-align: center; }
+      .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item {
+        padding: 15px 0 20px 0;
+        width: 34%;
+        display: block;
+        margin: 0 auto; }
+        .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item img {
+          float: none;
+          margin: 0; }
+        .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item p {
+          font: 100 20px/24px RobotoLight; }
+        .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item.quality-border {
+          border-right: none; }
+  .nano-tech .nano-tech-wrap p {
+    padding: 0 25px; }
+  .composition {
+    padding-bottom: 60px; }
+    .composition h2 {
+      margin-bottom: 40px; }
+    .composition .composition-wrap {
+      width: 49%;
+      margin: 0 auto; }
+      .composition .composition-wrap img {
+        display: none; }
+      .composition .composition-wrap p {
+        width: 100%;
+        font: 300 21px/30px RobotoRegular;
+        display: list-item;
+        text-align: left; }
+        .composition .composition-wrap p.iron, .composition .composition-wrap p.carbon, .composition .composition-wrap p.salt, .composition .composition-wrap p.polymer, .composition .composition-wrap p.vermiculite, .composition .composition-wrap p.purge {
+          position: relative;
+          margin: 0;
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0; }
+  .expert .expert-item {
+    padding: 0 25px; }
+  footer {
+    text-align: center; }
+    footer .logo {
+      float: none; }
+    footer .footer-center {
+      float: none;
+      display: block;
+      padding-top: 15px; }
+    footer .footer-call-back {
+      float: none;
+      margin-top: 20px; } }
+
+@media screen and (max-width: 600px) {
+  .how-work .simple-steps-wrap .simple-steps-item {
+    display: block;
+    width: 100%;
+    padding-right: 0;
+    padding-bottom: 25px; }
+    .how-work .simple-steps-wrap .simple-steps-item p {
+      margin-top: 15px;
+      width: 100%; }
+    .how-work .simple-steps-wrap .simple-steps-item:after {
+      display: none; }
+  .how-work .simple-steps-wrap .important-circle {
+    top: 745px; }
+  .technology h2 {
+    font: 100 27px/1 RobotoLight; }
+    .technology h2 span {
+      font: 900 32px/1 RobotoRegular; } }
+
+@media screen and (max-width: 560px) {
+  .composition h3 {
+    font: 400 32px/1 IntroRegular; }
+  .composition h2 {
+    font: 400 50px/1 IntroRegular; } }
+
+@media screen and (max-width: 535px) {
+  .slide {
+    -moz-background-size: cover;
+    background-size: cover; }
+    .slide .slide-right h2 {
+      font: 300 32px/1 RobotoLight; }
+  .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item {
+    width: 100%; }
+    .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item img {
+      width: 60px; }
+    .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item.quality-border:after, .nano-tech .nano-tech-wrap .nano-tech-right .quality .quality-item.quality-border:before {
+      right: 0; } }
+
+@media screen and (max-width: 490px) {
+  .how-work .how-work-frame {
+    display: none; }
+    .how-work .how-work-frame .how-work-list .how-work-item {
+      width: 77%; }
+  .pain-scale .pain-scale-list .pain-scale-item:nth-child(odd) > .pain-popup:after {
+    left: 145px; }
+  .pain-scale .pain-scale-list .pain-scale-item:nth-child(even) > .pain-popup:after {
+    left: 145px; }
+  .pain-scale .pain-scale-list .pain-scale-item .pain-popup {
+    width: 310px;
+    padding: 50px 15px 0 15px; }
+    .pain-scale .pain-scale-list .pain-scale-item .pain-popup span {
+      font: 300 21px/30px RobotoRegular; } }
+
+@media screen and (max-width: 479px) {
+  .effects .relieve-pain .main-table {
+    margin: 0 auto; }
+    .effects .relieve-pain .main-table th {
+      font: 100 14px/55px RobotoLight; }
+    .effects .relieve-pain .main-table td.table-left {
+      font: 300 17px/48px RobotoRegular;
+      padding-left: 0; } }
+
+@media screen and (max-width: 421px) {
+  .slide .slide-right {
+    max-width: 100%; }
+    .slide .slide-right h2 {
+      text-align: center; }
+    .slide .slide-right ul {
+      max-width: 48%;
+      margin: 0 auto; }
+  .nano-tech .nano-tech-wrap .nano-tech-right h2 {
+    font: 400 32px/46px IntroRegular; } }
+
+@media screen and (max-width: 414px) {
+  .slide .slide-left .three {
+    left: 35px;
+    bottom: -125px; }
+  .slide .slide-left ul {
+    font: 100 19px/1 RobotoLight; }
+  .slide .slide-right ul {
+    max-width: 50%;
+    font: 100 19px/1 RobotoLight; }
+  .effects h2 {
+    font: 400 48px/1 IntroRegular; }
+  .effects .effects-list .effects-item.tittle-item {
+    width: 100%; }
+  .technology .tech-wrap .tech-item {
+    width: 100%; } }
+
+@media screen and (max-width: 380px) {
+  .how-work .simple-steps-wrap {
+    padding-bottom: 55px; }
+    .how-work .simple-steps-wrap .important-circle {
+      display: none; }
+  .nano-tech .nano-tech-wrap .nano-tech-right h2 {
+    font: 400 28px/46px IntroRegular; }
+  .technology .tech-wrap {
+    padding-top: 55px; } }
+
+@media screen and (max-width: 320px) {
+  .slide .slide-left ul {
+    max-width: 44%; }
+  .slide .slide-right ul {
+    max-width: 62%; } }
+
+@media (min-width: 640px) {
+  .container {
+    width: 600px; } }
+
+@media (min-width: 768px) {
+  .container {
+    width: 728px; } }
+
+@media (min-width: 992px) {
+  .container {
+    width: 960px; } }

@@ -1,0 +1,1275 @@
+@media screen and (max-width: 1310px){
+  .pain-scale {
+    .pain-scale-list {
+      .pain-scale-item {
+        &:last-child > .pain-popup {
+            left: -345px;
+          &:after {
+            left: 400px;
+          }
+        }
+        &:nth-child(4) > .pain-popup {
+            left: -215px;
+          &:after {
+            left: 270px;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1044px){
+  .how-work {
+    .simple-steps-wrap {
+      .important-circle {
+        right: 0;
+        width: 315px;
+        height: 315px;
+      }
+    }
+  }
+}
+@media screen and (max-width: 992px){
+  .slide {
+    background-position: left top;    
+    padding-bottom: 316px;
+    .slide-left {
+      margin-left: 40px;
+      .three {
+        left: -28px;
+      }
+      ul {
+        font-family: RobotoLight
+      }
+    }
+    .slide-right {
+      padding-top: 30px;
+      margin-right: 26px;
+      ul {
+        font-family: RobotoLight
+      }
+    }
+    .girl-center {
+      // width: 51%;
+      width: 383px;
+      left: 90px;
+    }
+  }
+
+  .order-now {
+    padding: 46px 0 52px 0;
+    .order-now-wrap {
+      .product-box {
+        width: 46%;
+        left: -125px;
+        top: -61px;
+
+      }
+      .order-now-center {
+        margin-right: 0;
+        width: 274px;
+        .price-circle {
+          width: 137px;
+          height: 137px;
+          top: -120px;
+          left: 120px;
+          p {
+            &.old-price {
+              padding: 33px 0 3px 0;
+              font: 500 19px/25px RobotoRegular;
+            }
+            &.price {
+              font: 700 39px/1 RobotoRegular;
+              span {
+                font-size: 14px;
+              }
+            }
+          }
+        }
+        h3 {
+          padding-top: 22px;
+          margin-bottom: 19px;
+          font: 700 33px/34px RobotoRegular;
+        }
+        p {
+          font: 300 14px/1 RobotoRegular;
+          margin-bottom: 32px;
+        }
+        .timer-content {
+          .timer {
+            .timer-val {
+              padding: 1px 8px;
+              font: 400 26px/27px OpenSansRegular;
+            }
+            .timer-colon {
+              margin: 0 2px 0 -3px;
+            }
+            .timer-title {
+              font: 300 9px/27px RobotoRegular;
+            }
+          }
+        }
+      }
+      .order-now-right {
+        width: auto;
+        h2 {
+          font: 700 19px/23px RobotoRegular;
+          margin-bottom: 12px;
+        }
+        form {
+          .form-field {
+            input {
+              width: 244px;
+              height: 42px;
+            }
+          }
+          button {
+            width: 244px;
+            height: 53px;
+            font: 700 17px/28px RobotoRegular;
+          }
+        }
+      }
+    }
+  }
+
+  .effects {
+    padding-bottom: 31px;
+    .effects-cont { 
+      padding: 0 53px;
+      h3 {
+        padding-top: 72px;
+      }
+      .effects-list {
+        margin-top: 84px;
+        .effects-item {
+          width: 49%;
+          padding-bottom: 64px;
+          &:nth-child(2) {
+            width: 28%;
+          }
+          &.tittle-item {
+            margin: 0px 127px 0 15px;
+          }
+        }
+      }
+    }
+    .relieve-pain {
+      padding-top: 0;
+      .relieve-pain-title {
+        margin-left: 49px;
+      }
+      .line-blue {
+        margin-left: 53px;
+      }    
+    }
+  }
+
+  .pain-scale {
+    padding: 31px 0 41px 0;
+    .pain-scale-tittle {
+      padding-top: 0;
+      margin-left: 53px;
+      width: 123px;
+      h2 {
+        font: 900 34px/40px RobotoRegular;
+        margin-bottom: 5px;
+      }
+      span {
+        font: 700 18px/20px RobotoRegular;
+      }
+    }
+    .pain-scale-list {
+      .pain-scale-item {
+        padding: 15px 0px;
+        &:first-child > .pain-popup {
+          left: -50px;
+          &:after {
+            left: 85px;
+          }
+        }
+        &:nth-child(2) > .pain-popup {
+          left: -145px;
+          &:after {
+            left: 185px;
+          }
+        }
+        &:nth-child(3) > .pain-popup {
+          left: -240px;
+          &:after {
+            left: 275px;
+          }
+        }
+        &:nth-child(4) > .pain-popup {
+          left: -335px;
+          &:after {
+            left: 370px;
+          }
+        }
+        &:last-child > .pain-popup {
+          left: -430px;
+          &:after {
+            left: 435px;
+          }
+        }
+      }
+    }
+  }
+
+  .warmer {
+    background-position: right top;
+    h2 {
+      padding-top: 62px;
+      margin: 0 0 15px 54px;
+    }
+    .line-blue {
+      margin-left: 56px;
+    }
+    .warmer-list {
+      padding-bottom: 65px;
+      .warmer-item {
+        padding: 0 4px;
+        &:first-child {
+          padding-left: 36px;
+        }
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      padding-bottom: 38px;
+      .nano-tech-bg {
+        left: -95px;
+      }
+      .nano-tech-right {
+        width: 471px;
+        .quality {
+          .quality-item {
+            width: 233px;
+            img {
+              &.quality-img-right {
+                margin-left: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .composition {
+    padding-bottom: 129px;
+    h2 {
+      margin-bottom: 111px;
+    }
+    .composition-wrap {
+      img {
+        width: 44%;
+      }
+      p {
+        font: 300 20px/23px RobotoRegular;
+        &.iron {
+          top: -65px;
+        }
+        &.carbon {
+          top: 5px;
+          right: 0;
+        }
+        &.salt {
+          bottom: 14px;
+          right: 57px;
+        }
+        &.polymer {
+          bottom: -63px;
+        }
+        &.vermiculite {
+          bottom: 17px;
+          left: 26px;
+        }
+        &.purge {
+          left: 0px;
+        }
+      }
+    }
+  }
+
+  .how-work {
+    .how-work-frame {
+      top: 164px;
+      max-width: 649px;
+      height: 634px;
+    }
+    .how-work-list {
+      margin-bottom: 189px;
+      .how-work-item {
+        width: 43%;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 85px;
+        p {
+          margin-top: 14px;
+          line-height: 18px;
+        }
+      }
+    }
+    .simple-steps-wrap {
+      padding-bottom: 244px;
+      .important-circle {
+        top: 373px;
+        left: 0;
+        right: 0;
+        margin: auto;
+      }
+    }
+  }
+  .technology {
+    .tech-wrap {
+      padding-top: 246px;
+      .tech-item {
+        padding: 0 12px;
+        &:first-child {
+          padding-left: 0;
+        }
+        &:last-child {
+          padding-left: 0;
+        }
+        img {
+          width: 20%;
+        }
+        p {
+          margin-top: 22px;
+          font: 300 17px/20px RobotoLight;
+        }
+      }
+    }
+    h2 {
+      padding-top: 68px;
+      font: 100 33px/1 RobotoLight;
+    }
+  }
+
+  .expert {
+    h2 {
+      padding-top: 175px;
+    }
+    .expert-item {
+      text-align: center;
+      margin-bottom: 101px;
+      .avatar-wrap {
+        float: none;
+      }
+      .expert-item-text {
+        margin-left: 0;
+        p {
+          text-align: left;
+        }
+      }
+    }
+  }
+
+  .reviews {
+    margin-bottom: 274px;
+  }
+
+  footer {
+    .logo {
+      margin-right: 40px;
+    }
+  }
+
+}
+@media screen and (max-width: 767px){
+  header {
+    .navigation {
+      .main-menu {
+        li {
+          padding: 18px 11px;
+        }
+      }
+    }
+  }
+
+  .slide {
+    padding-bottom: 285px;
+    .slide-left {
+      margin-left: 0;
+      .three {
+        font-size: 325px;
+        left: -10px;
+        bottom: -92px;
+      }
+      .logo {
+        a {
+          font: 400 54px/1 IntroRegular;
+        }
+        p {
+          font: 300 17px/1 RobotoCondensedLight;
+        }
+      }
+      h2 {
+        margin: 43px 0 23px 35px;
+      }
+      ul {
+        padding-right: 2px;
+      }
+    }
+    .slide-right {
+      margin-right: 0;
+    }
+    .girl-center {
+      bottom: -52px;
+    }
+  }
+
+  .order-now {
+    position: relative;
+    z-index: 2;
+    .order-now-wrap {
+      .product-box {
+        width: 54%;
+        left: -181px;
+        top: -58px;
+      }
+      .order-now-right {
+        width: 180px;
+        h2 {
+          font: 700 14px/20px RobotoRegular;
+        }
+        form {
+          .form-field {
+            input {
+              width: 180px;
+            }
+          }
+          button {
+            width: 180px;
+          }
+        }
+      }
+      .order-now-center {
+        .price-circle {
+          left: 59px;
+        }
+      }
+    }
+  }
+
+  .effects {
+    padding-bottom: 42px;
+    .effects-cont {
+      padding: 0;
+      h3 {
+        padding-top: 62px;
+      }
+      .effects-list {
+        margin-top: 74px;
+        .effects-item {
+           padding-bottom: 71px;
+          &.tittle-item {
+            margin-left: 0;
+          }
+        }
+      }
+    }
+    .relieve-pain {
+      .relieve-pain-title {
+        margin-left: 0;
+      }
+      .line-blue {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .pain-scale {
+    padding-bottom: 28px;
+    .pain-scale-tittle {
+      margin-left: 0;
+    }
+    .pain-scale-list {
+      .pain-scale-item {
+        p {
+          width: 91px;
+        }
+      }
+    }
+  }
+
+  .warmer {
+    h2 {
+      padding-top: 52px;
+      margin-left: 0;
+    }
+    .line-blue {
+      margin-left: 0;
+    }
+    .warmer-list {
+      padding-bottom: 75px;
+      .warmer-item {
+        padding: 0;
+        &:first-child {
+          padding-left: 0;
+        }
+        p {
+          font: 100 26px/1 RobotoLight;
+          width: 151px;
+        }
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      padding-bottom: 92px;
+      .nano-tech-bg {
+        left: -233px;
+      }
+      .nano-tech-right {
+        .quality {
+          .quality-item {
+            width: 206px;
+            padding: 55px 0 50px 0;
+            img {
+              width: 29%;
+              margin-right: 21px;
+              &.quality-img-right {
+                margin: 0 8px 0 10px;
+              }
+            }
+            p {
+              font: 100 17px/20px RobotoLight;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .composition {
+    padding-bottom: 152px;
+    h3 {
+      padding-top: 96px;
+    }
+    h2 {
+      margin-bottom: 140px;
+    }
+    .composition-wrap {
+      p {
+        font: 300 16px/19px RobotoRegular;
+        width: 149px;
+        &.iron {
+          top: -55px;
+        }
+        &.carbon {
+          top: 2px;
+          right: -2px;
+        }
+        &.salt {
+          bottom: 15px;
+          right: 53px;
+        }
+        &.polymer {
+          bottom: -49px;
+        }
+        &.vermiculite {
+          left: 31px;
+        }
+        &.purge {
+          top: 9px;
+          left: 9px;
+        }
+      }
+    }
+  }
+
+  .how-work {
+    .how-work-frame {
+      max-width: 470px;
+    }
+    .how-work-list {
+      margin-bottom: 139px;
+      .how-work-item {
+        width: 54%;
+      }
+    }
+    .simple-steps-wrap {
+      padding-bottom: 235px;
+      .simple-steps-item {
+        padding: 0 10px;
+        width: 31%;
+      }
+      .important-circle {
+        top: 362px;
+      }
+    }
+  }
+
+  .technology {
+    .tech-wrap {
+      padding-top: 193px;
+      .tech-item {
+        padding: 64px 0;
+        display: block;
+        width: 365px;
+        background: #f5fafe;
+        margin: 0 auto;
+        margin-bottom: 12px;
+        &:first-child {
+          padding-left: 0;
+        }
+        img {
+          width: 19%;
+        }
+        p {
+          padding-top: 30px;
+          margin: 0 auto;
+          font: 300 25px/29px RobotoLight;
+          width: 284px;
+        }
+      }
+    }
+    h2 {
+      padding: 0 52px;
+    }
+  }
+
+  .expert {
+    h2 {
+      padding-top: 146px;
+    }
+    .expert-item {
+      margin-bottom: 70px;
+    }
+  }
+
+  .reviews {
+    margin-bottom: 74px;
+    h2 {
+      margin-bottom: 65px;
+    }
+    .carrusel {
+      background: #fcfcfc;
+      border: 1px solid #ececec;
+      border-radius: 10px;
+      padding: 29px 27px 10px 27px;
+      .reviews-item {
+        .reviews-avatar {
+          float: none;
+          display: block;
+          margin: 0 auto;
+        }
+        .reviews-text {
+          margin-left: 0;
+          padding: 0;
+        }
+      }
+    }
+  }
+  
+  .order-now-bottom {
+    display: none;
+  }
+
+  footer {
+    padding-bottom: 53px;
+    .logo {
+      padding-top: 51px;
+      margin-right: 20px;
+      a {
+        font: 400 32px/1 IntroRegular;
+      }
+      p {
+        font: 300 10px/1 RobotoCondensed;
+      }
+    }
+    .footer-center {
+      padding-top: 53px;
+      p {
+        font: 100 19px/20px RobotoRegular;
+      }
+      span {
+      font: 100 16px/1 RobotoLight;
+      }
+    }
+    .footer-call-back {
+      margin-top: 52px;
+    }
+  }
+}
+@media screen and (max-width: 640px){
+  .burger {
+    display: block;
+  }
+  .navigation {
+    padding-top: 0;
+    .main-menu {
+      display: none;
+      position: fixed;
+      z-index: 3;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      text-align: center;
+      background: rgba(24, 93, 149, 0.9);
+      padding: 0;
+      li {
+        display: block;
+        padding: 15px 11px;
+        &:hover {
+          border-radius: 0;
+        }
+        &:first-child {
+          margin-top: 105px;
+        }
+        a {
+          color: white;
+          border: 0;
+          font: 700 20px/1 RobotoRegular;
+        }
+      }
+    }
+    .el-call-back {
+      display: none;
+    }
+  }
+
+  .slide { 
+    padding: 30px 0 76px 0; 
+    margin-top: 0;
+    .slide-left {
+      float: none;
+      .three {
+        left: 140px;
+        bottom: -92px;
+      }
+      .logo {
+        text-align: center;
+        margin: 0 auto;
+        a {
+          margin-left: 0;
+        }
+      }
+      h2 {
+        text-align: center;
+        margin-left: 0;
+      }
+      ul {
+        float: none;
+        margin: 0 auto;
+        max-width: 35%;
+      }
+    }
+    .slide-right {
+      float: none;
+      margin: 0 auto;
+      max-width: 48%;
+    }
+    .girl-center {
+      display: none;
+    }
+  }
+
+  .order-now {
+    .order-now-wrap {
+      .product-box {
+        display: none;
+      }
+      .order-now-right {
+        float: none;
+        margin: 0 auto;
+        width: 274px;
+        h2 {
+          font: 700 22px/25px RobotoRegular;
+        }
+        form {
+          .form-field {
+            input {
+              width: 100%;
+            }
+          }
+          button {
+            width: 274px;
+          }
+        }
+      }
+      .order-now-center {
+        float: none;
+        margin: 0 auto;
+        .price-circle {
+          display: none;
+        }
+      }
+    }
+  }
+
+  .effects {
+    .effects-cont {
+      h3 {
+        width: 100%;
+        text-align: center;
+      }
+      .el-line {
+        margin: 0 auto;
+        width: 70%;
+      }
+      h2 {
+        text-align: center;
+      }
+      .effects-list {
+        .effects-item {
+          display: block;
+          margin: 0 auto;
+          &.tittle-item {
+            text-align: center;
+            margin: 0 auto;
+          }
+          &:nth-child(2) {
+            width: 49%;
+          }
+        }
+      }
+    }
+    .relieve-pain {
+      .relieve-pain-title {
+        text-align: center;
+      }
+      .line-blue {
+        margin: 0 auto;
+        width: 70%;
+      }
+      .main-table {
+        th {
+          font: 100 20px/55px RobotoLight;
+        }
+        td {
+          &.table-left {
+            padding-right: 0;
+          }
+          &.table-center {
+            width: 23%;
+          }
+        }
+      }
+    }
+  }
+
+  .pain-scale {
+    .pain-scale-tittle {
+      float: none;
+      width: 100%;
+      text-align: center;
+    }
+    .pain-scale-list {
+      float: none;
+      .pain-scale-item {
+        display: block;
+        padding: 15px 0px;
+        p {
+          width: 100%;
+        }
+        .pain-popup {
+          left: 0;
+          right: 0;
+          margin: auto;
+        }
+        &:first-child > .pain-popup {
+          left: 0;
+          &:after {
+            left: 225px;
+          }
+        }
+        &:nth-child(2) > .pain-popup {
+          left: 0;
+          &:after {
+            left: 225px;
+          }
+        }
+        &:nth-child(3) > .pain-popup {
+          left: 0;
+          &:after {
+            left: 225px;
+          }
+        }
+        &:nth-child(4) > .pain-popup {
+          left: 0;
+          &:after {
+            left: 225px;
+          }
+        }
+        &:last-child > .pain-popup {
+          left: 0;
+          &:after {
+            left: 225px;
+          }
+        }
+      }
+    }
+  }
+
+  .warmer {
+    // background-size: cover;
+    // background-position: right top;
+    background: none;
+    h2 {
+      width: 100%;
+      text-align: center;
+      font: 400 32px/44px IntroRegular;
+    }
+    .line-blue {
+      width: 90%;
+      margin: 0 auto;
+    }
+    .warmer-list {
+      margin-top: 0;
+      padding-bottom: 0;
+      .warmer-item {
+        display: block;
+        padding: 26px 0;
+        p {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      .nano-tech-bg {
+        display: none;
+      }
+      .nano-tech-right {
+        float: none;
+        width: 100%;
+        h2 {
+          text-align: center;
+        }
+        .line-white {
+          margin: 0 auto;
+          width: 70%;
+        }
+        .quality {
+          text-align: center;
+          .quality-item {
+            padding: 15px 0 20px 0;
+            width: 34%;
+            display: block;
+            margin: 0 auto;
+            img {
+              float: none;
+              margin: 0;
+            }
+            p {
+              font: 100 20px/24px RobotoLight;
+            }
+            &.quality-border {
+              border-right: none;
+            }
+          }
+        }
+      }
+      p {
+        padding: 0 25px;
+      }
+    }
+  }
+
+  .composition {
+    padding-bottom: 60px;
+    h2 {
+      margin-bottom: 40px;
+    }
+    .composition-wrap {
+      width: 49%;
+      margin: 0 auto;
+      img {
+        display: none;
+      }
+      p {
+        width: 100%;
+        font: 300 21px/30px RobotoRegular;
+        display: list-item;
+        text-align: left;
+        &.iron, &.carbon, &.salt, &.polymer, &.vermiculite, &.purge {
+          position: relative;
+          margin: 0;
+          left: 0;
+          right: 0;
+          top: 0;
+          bottom: 0;
+        }
+      }
+    }
+  }
+
+  .expert {
+    .expert-item {
+      padding: 0 25px;
+    }
+  }
+
+  footer {
+    text-align: center;
+    .logo {
+      float: none;
+    }
+    .footer-center {
+      float: none;
+      display: block;
+      padding-top: 15px;
+    }
+    .footer-call-back {
+      float: none;
+      margin-top: 20px;
+    }
+  }
+
+}
+@media screen and (max-width: 600px){
+  .how-work {
+    .simple-steps-wrap {
+      .simple-steps-item {
+        display: block;
+        width: 100%;
+        padding-right: 0;
+        padding-bottom: 25px;
+        p {
+          margin-top: 15px;
+          width: 100%;
+        }
+        &:after {
+          display: none;
+        }
+      }
+      .important-circle {
+        top: 745px;
+      }
+    }
+  }
+
+  .technology {
+    h2 {
+      font: 100 27px/1 RobotoLight;
+      span {
+        font: 900 32px/1 RobotoRegular;
+      }
+    }
+  }
+
+}
+@media screen and (max-width: 560px){
+  .composition {
+    h3 {
+      font: 400 32px/1 IntroRegular;
+    }
+    h2 {
+      font: 400 50px/1 IntroRegular;
+    }
+  }
+}
+@media screen and (max-width: 535px){
+  .slide {
+    background-size: cover;
+    .slide-right {
+      h2 {
+        font: 300 32px/1 RobotoLight;
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      .nano-tech-right {
+        .quality {
+          .quality-item {
+            width: 100%;
+            img {
+              width: 60px;
+            }
+            &.quality-border {
+              &:after, &:before {
+                right: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 490px){
+  .how-work {
+    .how-work-frame {
+      display: none;
+      .how-work-list {
+        .how-work-item {
+          width: 77%;
+        }
+      }
+    }
+  }
+
+  .pain-scale {
+    .pain-scale-list {
+      .pain-scale-item {
+        &:nth-child(odd) > .pain-popup {
+          &:after {
+            left: 145px;
+          }
+        }
+        &:nth-child(even) > .pain-popup {
+          &:after {
+            left: 145px;
+          }
+        }
+        .pain-popup {
+          width: 310px;
+          padding: 50px 15px 0 15px;        
+          span {
+            font: 300 21px/30px RobotoRegular;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 479px){
+  .effects {
+    .relieve-pain {
+      .main-table {
+        margin: 0 auto;
+        th {
+          font: 100 14px/55px RobotoLight;
+        }
+        td {
+          &.table-left {
+            font: 300 17px/48px RobotoRegular;
+            padding-left: 0;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 421px){
+  .slide {
+    .slide-right {
+      max-width: 100%;
+      h2 {
+        text-align: center;
+      }
+      ul {
+        max-width: 48%;
+        margin: 0 auto;
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      .nano-tech-right {
+        h2 {
+          font: 400 32px/46px IntroRegular;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 414px){
+  .slide {
+    .slide-left {
+      .three {
+        left: 35px;
+        bottom: -125px;
+      }
+      ul {
+        font: 100 19px/1 RobotoLight;
+      }
+    }
+    .slide-right {     
+      ul {
+        max-width: 50%;
+        font: 100 19px/1 RobotoLight;
+      }
+    }
+  }
+
+  .effects {
+    h2 {
+      font: 400 48px/1 IntroRegular;
+    }
+    .effects-list {
+      .effects-item {
+        &.tittle-item {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .technology {
+    .tech-wrap {
+      .tech-item {
+        width: 100%;
+      }
+    }
+  }
+}
+@media screen and (max-width: 380px){
+  .how-work {
+    .simple-steps-wrap {
+      padding-bottom: 55px;
+      .important-circle {
+        display: none;
+      }
+    }
+  }
+
+  .nano-tech {
+    .nano-tech-wrap {
+      .nano-tech-right {
+        h2 {
+          font: 400 28px/46px IntroRegular;
+        }
+      }
+    }
+  }
+
+  .technology {
+    .tech-wrap {
+      padding-top: 55px;
+    }
+  }
+}
+@media screen and (max-width: 320px){
+  .slide {
+    .slide-left {
+      ul {
+        max-width: 44%;
+      }
+    }
+    .slide-right {     
+      ul {
+        max-width: 62%;
+      }
+    }
+  }
+}
+
+@media (min-width: 640px) {
+  .container { 
+    width: 600px; 
+  }
+} 
+@media (min-width: 768px) {
+  .container {
+    width: 728px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container { 
+    width: 960px;
+  } 
+} 
